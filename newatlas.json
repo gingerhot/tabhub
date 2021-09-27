@@ -1,0 +1,37 @@
+{
+  "name": "Atlas Feed",
+  "version": "1.0",
+  "type": "resource",
+  "items": [
+    {
+      "type": "rss",
+      "name": "newatlas all",
+      "background_style": "#0dd9d9",
+      "url": "https://newatlas.com/index.rss"
+    },
+    {
+      "type": "rss",
+      "name": "newatlas science",
+      "background_style": "#c295df",
+      "url": "https://newatlas.com/science/index.rss"
+    },
+    {
+      "type": "rss",
+      "name": "newatlas technology",
+      "background_style": "#e49595",
+      "url": "https://newatlas.com/technology/index.rss"
+    },
+    {
+      "type": "rss",
+      "name": "newatlas transport",
+      "background_style": "#7abaf5",
+      "url": "https://newatlas.com/transport/index.rss"
+    },
+    {
+      "type": "rss",
+      "name": "newatlas lifestyle",
+      "background_style": "#8ee69d",
+      "url": "https://newatlas.com/lifestyle/index.rss"
+    }
+  ]
+}
