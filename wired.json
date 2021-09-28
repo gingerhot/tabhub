@@ -1,0 +1,55 @@
+{
+  "name": "Wired Feed",
+  "version": "1.0",
+  "type": "resource",
+  "items": [
+    {
+      "type": "rss",
+      "name": "wired all",
+      "background_style": "#8bf2f9",
+      "url": "https://www.wired.com/feed"
+    },
+    {
+      "type": "rss",
+      "name": "wired science",
+      "background_style": "#ffeb66",
+      "url": "https://www.wired.com/category/science/feed"
+    },
+    {
+      "type": "rss",
+      "name": "wired ideas",
+      "background_style": "#54f2c3",
+      "url": "https://www.wired.com/category/ideas/feed"
+    },
+    {
+      "type": "rss",
+      "name": "wired backchannel",
+      "background_style": "#c4fdec",
+      "url": "https://www.wired.com/category/backchannel/feed"
+    },
+    {
+      "type": "rss",
+      "name": "wired bussiness",
+      "background_style": "#75f5a2",
+      "url": "https://www.wired.com/category/business/feed"
+    },
+    {
+      "type": "rss",
+      "name": "wired culture",
+      "background_style": "#000000",
+      "url": "https://www.wired.com/category/culture/feed"
+    },
+    {
+      "type": "rss",
+      "name": "wired gear",
+      "background_style": "#09c5d3",
+      "url": "https://www.wired.com/category/gear/feed"
+    },
+    {
+      "type": "rss",
+      "name": "wired security",
+      "background_style": "#d42b2b",
+      "url": "https://www.wired.com/category/security/feed"
+    }
+  ]
+}
