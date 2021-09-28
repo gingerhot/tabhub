@@ -1,0 +1,67 @@
+{
+  "name": "The New York Times Feed",
+  "version": "1.0",
+  "type": "resource",
+  "items": [
+    {
+      "type": "rss",
+      "name": "nytimes homepage",
+      "background_style": "#0dd9d9",
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"
+    },
+    {
+      "type": "rss",
+      "name": "nytimes world",
+      "background_style": "#c295df",
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml"
+    },
+    {
+      "type": "rss",
+      "name": "nytimes U.S.",
+      "background_style": "#e49595",
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/US.xml"
+    },
+    {
+      "type": "rss",
+      "name": "nytimes bussiness",
+      "background_style": "#7abaf5",
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml"
+    },
+    {
+      "type": "rss",
+      "name": "nytimes technology",
+      "background_style": "#8ee69d",
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+    },
+    {
+      "type": "rss",
+      "name": "nytimes science",
+      "background_style": "#8bf2f9",
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml"
+    },
+    {
+      "type": "rss",
+      "name": "nytimes health",
+      "background_style": "#ffeb66",
+      "url": "https://www.nytimes.com/services/xml/rss/nyt/Health.xml"
+    },
+    {
+      "type": "rss",
+      "name": "nytimes arts",
+      "background_style": "#54f2c3",
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/Arts.xml"
+    },
+    {
+      "type": "rss",
+      "name": "nytimes fashion & style",
+      "background_style": "#c4fdec",
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/FashionandStyle.xml"
+    },
+    {
+      "type": "rss",
+      "name": "nytimes travel",
+      "background_style": "#75f5a2",
+      "url": "https://www.nytimes.com/services/xml/rss/nyt/Travel.xml"
+    }
+  ]
+}
