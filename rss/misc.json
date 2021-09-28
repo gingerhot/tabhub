@@ -32,6 +32,12 @@
       "name": "XKCD.com",
       "background_style": "#000",
       "url": "https://xkcd.com/rss.xml"
+    },
+    {
+      "type": "rss",
+      "name": "Hackaday Blog",
+      "background_style": "#8bf2f9",
+      "url": "https://hackaday.com/blog/feed/"
     }
   ]
 }
